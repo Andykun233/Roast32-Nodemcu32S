@@ -15,3 +15,4 @@ Wireing:
  *  SO      ->  GPIO 19/SO
 
 ## Case for Single TC1 - Preview (For K-Type Interface)
+<img src="https://github.com/Andykun233/Roast32-Nodemcu32S/blob/8a4803b3764ac33c06b382250f7b97d56b2a08e4/Single-Port-Case/Single-Port-Case-ViewinBambooLab.png" width="1080">
