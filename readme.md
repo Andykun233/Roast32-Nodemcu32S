@@ -16,3 +16,6 @@ Wireing:
 
 ## Case for Single TC1 - Preview (For K-Type Interface)
 <img src="https://github.com/Andykun233/Roast32-Nodemcu32S/blob/8a4803b3764ac33c06b382250f7b97d56b2a08e4/Single-Port-Case/Single-Port-Case-ViewinBambooLab.png" width="1080">
+
+## 3D Print With PETG - Preview (For K-Type Interface)
+<img src="https://github.com/Andykun233/Roast32-Nodemcu32S/blob/a9332d4de974fbbc2adc89b516f871bce635ddcb/Single-Port-Case/3DprintoutwithPETG.jpg" width="1080">
