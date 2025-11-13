@@ -1,6 +1,10 @@
 # RoastESP32-Nodemcu32S
 Modifying https://github.com/hokoon/RoastESP32 to work on a cloned ESP32-Nodemcu32S board.
 
+Please Use ESP32_TC4.ino
+For Arduino Board Choose:
+ESP32 DEV Kit
+
 Wireing:
 - For MAX6675 CS pin:
 * GPIO32 -> CS MAX6675[TC1]
